@@ -1,0 +1,503 @@
+{
+	"JsonPlayerParam": {
+		"warriorSkillObtain_": {
+			"pat000": {
+				"rate_": 6,
+				"campaign_": true
+			},
+			"pat002": {
+				"rate_": 6
+			},
+			"pat003": {
+				"rate_": 7,
+				"skill1_": "SKILL_W_STONE",
+				"skill2_": "SKILL_W_SMASH",
+				"skill3_": "SKILL_W_CHARGE_ATTACK",
+				"skill4_": "SKILL_W_SHIELD_CHARGE",
+				"skill5_": "SKILL_W_SPINNING_BLADE",
+				"skill6_": "SKILL_W_ROAR",
+				"skill7_": "SKILL_TEAM_W_PHALANX",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_W_CHEER",
+				"campaign_": true
+			},
+			"pat004": {
+				"rate_": 8,
+				"campaign_": true
+			},
+			"pat005": {
+				"rate_": 7
+			},
+			"pat006": {
+				"rate_": 6
+			},
+			"pat007": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat008": {
+				"rate_": 4,
+				"campaign_": true
+			},
+			"pat009": {
+				"rate_": 6,
+				"skill1_": "SKILL_W_SMASH",
+				"skill2_": "SKILL_W_SHIELD_CHARGE",
+				"skill3_": "SKILL_W_RUSH",
+				"skill4_": "SKILL_W_SPINNING_BLADE",
+				"skill5_": "SKILL_W_ROCKETMAN",
+				"skill6_": "SKILL_W_STONE",
+				"skill7_": "SKILL_TEAM_W_CHARGE",
+				"skill8_": "SKILL_TEAM_W_PHALANX",
+				"skill9_": "SKILL_TEAM_W_CHEER",
+				"campaign_": true
+			},
+			"pat010": {
+				"rate_": 7,
+				"skill1_": "SKILL_W_RUSH",
+				"skill2_": "SKILL_W_ROCKETMAN",
+				"skill3_": "SKILL_TEAM_W_CHEER",
+				"skill4_": "SKILL_W_ROAR",
+				"skill5_": "SKILL_W_STONE",
+				"skill6_": "SKILL_W_SMASH",
+				"skill7_": "SKILL_W_SPINNING_BLADE",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_W_PHALANX",
+				"campaign_": true
+			},
+			"pat011": {
+				"rate_": 8,
+				"skill1_": "SKILL_W_STONE",
+				"skill2_": "SKILL_W_SMASH",
+				"skill3_": "SKILL_W_SPINNING_BLADE",
+				"skill4_": "SKILL_W_SUPER_GUARD",
+				"skill5_": "SKILL_TEAM_W_CHARGE",
+				"skill6_": "SKILL_W_SHIELD_CHARGE",
+				"skill7_": "SKILL_W_CHARGE_ATTACK",
+				"skill8_": "SKILL_TEAM_W_PHALANX",
+				"skill9_": "SKILL_TEAM_W_CHEER",
+				"campaign_": true
+			},
+			"pat012": {
+				"rate_": 5,
+				"skill1_": "SKILL_W_CHARGE_ATTACK",
+				"skill2_": "SKILL_W_SHIELD_CHARGE",
+				"skill3_": "SKILL_W_SMASH",
+				"skill4_": "SKILL_W_SPINNING_BLADE",
+				"skill5_": "SKILL_W_ROAR",
+				"skill6_": "SKILL_W_ROCKETMAN",
+				"skill7_": "SKILL_TEAM_W_CHARGE",
+				"skill8_": "SKILL_TEAM_W_CHEER",
+				"skill9_": "SKILL_TEAM_W_PHALANX",
+				"campaign_": true
+			},
+			"pat013": {
+				"rate_": 5,
+				"skill1_": "SKILL_TEAM_W_CHARGE",
+				"skill2_": "SKILL_W_RUSH",
+				"skill3_": "SKILL_W_SHIELD_CHARGE",
+				"skill4_": "SKILL_W_SMASH",
+				"skill5_": "SKILL_W_SPINNING_BLADE",
+				"skill6_": "SKILL_W_ROCKETMAN",
+				"skill7_": "SKILL_W_STONE",
+				"skill8_": "SKILL_TEAM_W_CHEER",
+				"skill9_": "SKILL_TEAM_W_PHALANX",
+				"campaign_": true
+			},
+			"pat014": {
+				"rate_": 4,
+				"skill1_": "SKILL_TEAM_W_CHARGE",
+				"skill2_": "SKILL_W_RUSH",
+				"skill3_": "SKILL_W_SHIELD_CHARGE",
+				"skill4_": "SKILL_W_SMASH",
+				"skill5_": "SKILL_W_SPINNING_BLADE",
+				"skill6_": "SKILL_W_ROCKETMAN",
+				"skill7_": "SKILL_W_STONE",
+				"skill8_": "SKILL_TEAM_W_CHEER",
+				"skill9_": "SKILL_TEAM_W_PHALANX",
+				"campaign_": true
+			},
+			"pat015": {
+				"rate_": 8,
+				"skill1_": "SKILL_W_ROCKETMAN",
+				"skill2_": "SKILL_W_CHARGE_ATTACK",
+				"skill3_": "SKILL_W_SHIELD_CHARGE",
+				"skill4_": "SKILL_TEAM_W_CHEER",
+				"skill5_": "SKILL_W_SMASH",
+				"skill6_": "SKILL_W_SPINNING_BLADE",
+				"skill7_": "SKILL_W_STONE",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_W_PHALANX",
+				"campaign_": true
+			}
+		},
+		"clericSkillObtain_": {
+			"pat000": {
+				"rate_": 11,
+				"campaign_": true
+			},
+			"pat002": {
+				"rate_": 9
+			},
+			"pat003": {
+				"rate_": 9
+			},
+			"pat004": {
+				"rate_": 8
+			},
+			"pat005": {
+				"rate_": 8
+			},
+			"pat006": {
+				"rate_": 7
+			},
+			"pat007": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat008": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat009": {
+				"rate_": 8,
+				"skill1_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill2_": "SKILL_C_HEALING",
+				"skill3_": "SKILL_C_CONSTRUCT",
+				"skill4_": "SKILL_C_RUN_THROUGH",
+				"skill5_": "SKILL_C_AURA",
+				"skill6_": "SKILL_C_REINCARNATION",
+				"skill7_": "SKILL_C_ARMOR_PLATE",
+				"skill8_": "SKILL_TEAM_C_TRANSPORT",
+				"skill9_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"campaign_": true
+			},
+			"pat010": {
+				"rate_": 8,
+				"skill1_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill2_": "SKILL_C_HEALING",
+				"skill3_": "SKILL_C_CONSTRUCT",
+				"skill4_": "SKILL_C_RUN_THROUGH",
+				"skill5_": "SKILL_C_AURA",
+				"skill6_": "SKILL_C_REINCARNATION",
+				"skill7_": "SKILL_C_ARMOR_PLATE",
+				"skill8_": "SKILL_TEAM_C_TRANSPORT",
+				"skill9_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"campaign_": true
+			},
+			"pat011": {
+				"rate_": 4,
+				"skill1_": "SKILL_C_AURA",
+				"skill2_": "SKILL_C_CONSTRUCT",
+				"skill3_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"skill4_": "SKILL_C_AURA",
+				"skill5_": "SKILL_C_DISPEL",
+				"skill6_": "SKILL_C_WALL",
+				"skill7_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill8_": "SKILL_TEAM_C_TRANSPORT",
+				"skill9_": "SKILL_C_ARMOR_PLATE",
+				"campaign_": true
+			},
+			"pat012": {
+				"rate_": 4,
+				"skill1_": "SKILL_C_HEALING",
+				"skill2_": "SKILL_C_CONSTRUCT",
+				"skill3_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"skill4_": "SKILL_C_AURA",
+				"skill5_": "SKILL_C_REINCARNATION",
+				"skill6_": "SKILL_C_WALL",
+				"skill7_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill8_": "SKILL_TEAM_C_TRANSPORT",
+				"skill9_": "SKILL_C_ARMOR_PLATE",
+				"campaign_": true
+			}
+		},
+		"mageSkillObtain_": {
+			"pat000": {
+				"rate_": 12,
+				"campaign_": true
+			},
+			"pat002": {
+				"rate_": 8,
+				"campaign_": true
+			},
+			"pat003": {
+				"rate_": 8,
+				"campaign_": true
+			},
+			"pat004": {
+				"rate_": 7
+			},
+			"pat005": {
+				"rate_": 7
+			},
+			"pat006": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat007": {
+				"rate_": 8
+			},
+			"pat008": {
+				"rate_": 8,
+				"campaign_": true
+			},
+			"pat009": {
+				"rate_": 3,
+				"skill1_": "SKILL_M_ENCHANT_LIGHTNING",
+				"skill2_": "SKILL_M_LIGHTNING_STRIKE",
+				"skill3_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"skill4_": "SKILL_TEAM_M_TORNADO",
+				"skill5_": "SKILL_M_TRANSFORM",
+				"skill6_": "SKILL_M_ENCHANT_WIND",
+				"skill7_": "SKILL_M_PILLAR_BOMB",
+				"skill8_": "SKILL_M_WIND_TRAP",
+				"skill9_": "SKILL_M_ENCHANT_ICE",
+				"campaign_": true
+			},
+			"pat010": {
+				"rate_": 6,
+				"skill1_": "SKILL_M_ENCHANT_ICE",
+				"skill2_": "SKILL_M_BLIZZARD",
+				"skill3_": "SKILL_M_LIGHTNING_STRIKE",
+				"skill4_": "SKILL_TEAM_M_METEOR_STORM",
+				"skill5_": "SKILL_M_ENCHANT_WIND",
+				"skill6_": "SKILL_M_WIND_TRAP",
+				"skill7_": "SKILL_M_ENCHANT_LIGHTNING",
+				"skill8_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"skill9_": "SKILL_TEAM_M_TORNADO",
+				"campaign_": true
+			},
+			"pat011": {
+				"rate_": 6,
+				"skill1_": "SKILL_M_WIND_TRAP",
+				"skill2_": "SKILL_M_ENCHANT_WIND",
+				"skill3_": "SKILL_M_LIGHTNING_STRIKE",
+				"skill4_": "SKILL_M_TRANSFORM",
+				"skill5_": "SKILL_M_ENCHANT_LIGHTNING",
+				"skill6_": "SKILL_M_ENCHANT_ICE",
+				"skill7_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"skill8_": "SKILL_TEAM_M_TORNADO",
+				"skill9_": "SKILL_TEAM_M_METEOR_STORM",
+				"campaign_": true
+			},
+			"pat012": {
+				"rate_": 6,
+				"skill1_": "SKILL_M_WIND_TRAP",
+				"skill2_": "SKILL_M_ENCHANT_WIND",
+				"skill3_": "SKILL_TEAM_M_TORNADO",
+				"skill4_": "SKILL_M_TRANSFORM",
+				"skill5_": "SKILL_M_ENCHANT_LIGHTNING",
+				"skill6_": "SKILL_M_ENCHANT_ICE",
+				"skill7_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"skill8_": "SKILL_M_LIGHTNING_STRIKE",
+				"skill9_": "SKILL_TEAM_M_METEOR_STORM",
+				"campaign_": true
+			},
+			"pat013": {
+				"rate_": 4,
+				"skill1_": "SKILL_M_LIGHTNING_STRIKE",
+				"skill2_": "SKILL_M_TRANSFORM",
+				"skill3_": "SKILL_M_ENCHANT_WIND",
+				"skill4_": "SKILL_TEAM_M_TORNADO",
+				"skill5_": "SKILL_M_ENCHANT_FIRE",
+				"skill6_": "SKILL_M_WIND_TRAP",
+				"skill7_": "SKILL_TEAM_M_METEOR_STORM",
+				"skill8_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"skill9_": "SKILL_M_ENCHANT_LIGHTNING",
+				"campaign_": true
+			}
+		},
+		"berserkerSkillObtain_": {
+			"pat000": {
+				"rate_": 12
+			},
+			"pat001": {
+				"rate_": 11,
+				"campaign_": true
+			},
+			"pat003": {
+				"rate_": 9,
+				"campaign_": true
+			},
+			"pat004": {
+				"rate_": 9
+			},
+			"pat005": {
+				"rate_": 8
+			},
+			"pat006": {
+				"rate_": 8,
+				"campaign_": true
+			},
+			"pat007": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat008": {
+				"rate_": 7
+			},
+			"pat009": {
+				"rate_": 6,
+				"skill1_": "SKILL_B_DOUBLE_SPINNING",
+				"skill2_": "SKILL_TEAM_W_CHEER",
+				"skill3_": "SKILL_B_WEAPON_THROW",
+				"skill4_": "SKILL_W_ROAR",
+				"skill5_": "SKILL_B_FURY",
+				"skill6_": "SKILL_W_SMASH",
+				"skill7_": "SKILL_W_SPINNING_BLADE",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_B_ROCKETARMY",
+				"campaign_": true
+			},
+			"pat010": {
+				"rate_": 6,
+				"skill1_": "SKILL_B_DOUBLE_SPINNING",
+				"skill2_": "SKILL_W_SPINNING_BLADE",
+				"skill3_": "SKILL_B_WEAPON_THROW",
+				"skill4_": "SKILL_B_FURY",
+				"skill5_": "SKILL_W_SMASH",
+				"skill6_": "SKILL_W_ROCKETMAN",
+				"skill7_": "SKILL_TEAM_W_CHEER",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_B_ROCKETARMY",
+				"campaign_": true
+			},
+			"pat011": {
+				"rate_": 7,
+				"skill1_": "SKILL_W_RUSH",
+				"skill2_": "SKILL_B_FURY",
+				"skill3_": "SKILL_TEAM_B_ROCKETARMY",
+				"skill4_": "SKILL_W_ROCKETMAN",
+				"skill5_": "SKILL_B_WEAPON_THROW",
+				"skill6_": "SKILL_B_DOUBLE_SPINNING",
+				"skill7_": "SKILL_W_SMASH",
+				"skill8_": "SKILL_TEAM_W_CHARGE",
+				"skill9_": "SKILL_TEAM_W_CHEER",
+				"campaign_": true
+			}
+		},
+		"engineerSkillObtain_": {
+			"pat000": {
+				"rate_": 12,
+				"campaign_": true
+			},
+			"pat001": {
+				"rate_": 11
+			},
+			"pat003": {
+				"rate_": 9
+			},
+			"pat004": {
+				"rate_": 9
+			},
+			"pat005": {
+				"rate_": 5
+			},
+			"pat006": {
+				"rate_": 4
+			},
+			"pat007": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat008": {
+				"rate_": 7,
+				"campaign_": true
+			},
+			"pat009": {
+				"rate_": 6,
+				"skill1_": "SKILL_E_REMOTE_BOMB",
+				"skill2_": "SKILL_C_CONSTRUCT",
+				"skill3_": "SKILL_TEAM_E_ULTIMATE_WEAPON",
+				"skill4_": "SKILL_E_UPDATE",
+				"skill5_": "SKILL_E_REPAIR",
+				"skill6_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill7_": "SKILL_C_RUN_THROUGH",
+				"skill8_": "SKILL_C_REINCARNATION",
+				"skill9_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"campaign_": true
+			},
+			"pat010": {
+				"rate_": 6,
+				"skill1_": "SKILL_C_CONSTRUCT",
+				"skill2_": "SKILL_E_REPAIR",
+				"skill3_": "SKILL_E_REMOTE_BOMB",
+				"skill4_": "SKILL_C_HEALING",
+				"skill5_": "SKILL_E_UPDATE",
+				"skill6_": "SKILL_TEAM_E_ULTIMATE_WEAPON",
+				"skill7_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"skill8_": "SKILL_TEAM_C_SACRED_SONG",
+				"skill9_": "SKILL_C_ARMOR_PLATE",
+				"campaign_": true
+			},
+			"pat011": {
+				"rate_": 7,
+				"skill1_": "SKILL_E_REPAIR",
+				"skill2_": "SKILL_TEAM_E_ULTIMATE_WEAPON",
+				"skill3_": "SKILL_E_UPDATE",
+				"skill4_": "SKILL_C_ARMOR_PLATE",
+				"skill5_": "SKILL_C_CONSTRUCT",
+				"skill6_": "SKILL_TEAM_C_TRANSPORT",
+				"skill7_": "SKILL_C_REINCARNATION",
+				"skill8_": "SKILL_C_AURA",
+				"skill9_": "SKILL_TEAM_C_SACRED_SONG",
+				"campaign_": true
+			},
+			"pat012": {
+				"rate_": 7,
+				"skill1_": "SKILL_E_REMOTE_BOMB",
+				"skill2_": "SKILL_C_CONSTRUCT",
+				"skill3_": "SKILL_E_UPDATE",
+				"skill4_": "SKILL_TEAM_E_ULTIMATE_WEAPON",
+				"skill5_": "SKILL_C_REINCARNATION",
+				"skill6_": "SKILL_E_REPAIR",
+				"skill7_": "SKILL_C_RUN_THROUGH",
+				"skill8_": "SKILL_TEAM_C_HAPPY_MIRACLE",
+				"skill9_": "SKILL_TEAM_C_SACRED_SONG",
+				"campaign_": true
+			}
+		},
+		"sylphSkillObtain_": {
+			"pat000": {
+				"rate_": 13
+			},
+			"pat001": {
+				"rate_": 12
+			},
+			"pat002": {
+				"rate_": 11
+			},
+			"pat005": {
+				"rate_": 9
+			},
+			"pat006": {
+				"rate_": 9
+			},
+			"pat007": {
+				"rate_": 9
+			},
+			"pat008": {
+				"rate_": 9
+			},
+			"pat009": {
+				"rate_": 8,
+				"skill1_": "SKILL_S_WIND_WARP",
+				"skill2_": "SKILL_M_ENCHANT_WIND",
+				"skill3_": "SKILL_S_CYCLONE",
+				"skill4_": "SKILL_TEAM_S_CYCLONE_SHIELD",
+				"skill5_": "SKILL_M_WIND_TRAP",
+				"skill6_": "SKILL_M_ENCHANT_LIGHTNING",
+				"skill7_": "SKILL_TEAM_M_TORNADO",
+				"skill8_": "SKILL_M_ENCHANT_FIRE",
+				"skill9_": "SKILL_TEAM_M_LIGHTNING_ARROWS",
+				"campaign_": true
+			}
+		},
+		"kingSkillObtain_": {
+			"pat000": {
+				"campaign_": true
+			}
+		}
+	}
+}

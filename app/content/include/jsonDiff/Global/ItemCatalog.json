@@ -1,0 +1,358 @@
+{
+	"JsonItemCatalog": {
+		"panel_": {
+			"DLC2001": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2002": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2003": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2004": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2005": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2006": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2007": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2008": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2009": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2010": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2011": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC2012": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03001": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03002": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03007": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03003": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03004": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03005": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC03006": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC1001": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC1002": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC1003": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC1004": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0006": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0007": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0008": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0009": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0010": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0011": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0012": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0013": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0014": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0015": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0016": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0017": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0018": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0019": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0020": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0021": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0022": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0023": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0024": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0025": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0026": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0027": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0028": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0029": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0030": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0031": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0032": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0033": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0034": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0035": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0036": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0037": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0038": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0039": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0040": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0041": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0042": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0043": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0044": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0045": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0046": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0047": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0048": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0049": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0050": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0100_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0101": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0110_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0111": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0120_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0121": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0130_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0131": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0140_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0150": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0160": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0170": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0180": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0181": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0182": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0151": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0161": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0171": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0190_price": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			},
+			"DLC0191": {
+				"IsEnable": true,
+				"SalesPrice": 1
+			}
+		}
+	}
+}

@@ -1,0 +1,35 @@
+{
+	"JsonPlayerParam": {
+		"styleSetting_": {
+			"Berserker": {
+				"unlockTicketNum": 1
+			},
+			"Engineer": {
+				"unlockTicketNum": 1
+			},
+			"Sylph": {
+				"unlockTicketNum": 1
+			}
+		},
+		"horseSetting_": {
+			"CHARGER": {
+				"unlockTicketNum": 1
+			},
+			"GIRAFFE": {
+				"unlockTicketNum": 1
+			},
+			"THOROUGHBRED": {
+				"unlockTicketNum": 1
+			},
+			"HOLSTEIN": {
+				"unlockTicketNum": 1
+			},
+			"UNICORN": {
+				"unlockTicketNum": 1
+			},
+			"CAPYBARA": {
+				"unlockTicketNum": 1
+			}
+		}
+	}
+}

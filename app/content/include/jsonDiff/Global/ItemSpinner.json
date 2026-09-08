@@ -1,0 +1,14 @@
+{
+	"JsonItemSpinner": {
+		"categoryRate_": {
+			"MultipleCardLite": {
+				"UseJobSeal": true
+			},
+			"CardLimited": {
+				"Date": 20160730,
+				"EndDay": 20281231,
+				"UseFreeTicket": true
+			}
+		}
+    }
+}

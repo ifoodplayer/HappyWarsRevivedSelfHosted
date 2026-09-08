@@ -1,0 +1,9 @@
+{
+	"JsonGameEnvironment": {
+		"globalSetting_": {
+			"Default": {
+				"EnableTicketMigrationByGemini": false
+			}
+        }
+	}
+}

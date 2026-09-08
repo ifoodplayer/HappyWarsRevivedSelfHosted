@@ -1,0 +1,42 @@
+{
+	"JsonQuest": {
+		"quest_": {
+			"TotalKillByWarrior02": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"KillMax": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"AllKill": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"TotalKillToMage01": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"TotalKillByMage01": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"TotalHeroPopup03": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"TotalBallistaKill01": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"TotalBreakCastle02": {
+				"Priority": 1,
+				"Difficulty": 1
+			},
+			"NoDamageBreakCastle": {
+				"Priority": 1,
+				"Difficulty": 1
+			}
+		}
+	}
+}

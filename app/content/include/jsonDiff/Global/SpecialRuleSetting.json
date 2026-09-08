@@ -1,0 +1,72 @@
+{
+	"JsonSpecialRuleSetting": {
+		"colosseumHoldingInfo_": {
+			"Colosseum_070": {
+				"RewardDistributeEndDay": 20160828
+			},
+			"Colosseum_071": {
+				"RewardDistributeEndDay": 20161002
+			},
+			"Colosseum_072": {
+				"RewardDistributeEndDay": 20161106
+			},
+			"Colosseum_073": {
+				"RewardDistributeEndDay": 20160101
+			},
+			"Colosseum_074": {
+				"RewardDistributeEndDay": 20160205
+			},
+			"Colosseum_075": {
+				"RewardDistributeEndDay": 20160312
+			},
+			"Colosseum_076": {
+				"RewardDistributeEndDay": 20160416
+			},
+			"Colosseum_077": {
+				"RewardDistributeEndDay": 20160528
+			},
+			"Colosseum_078": {
+				"RewardDistributeEndDay": 20160716
+			},
+			"Colosseum_079": {
+				"RewardDistributeEndDay": 20160820
+			},
+			"Colosseum_080": {
+				"RewardDistributeEndDay": 20160924
+			},
+			"Colosseum_081": {
+				"RewardDistributeEndDay": 20161119
+			},
+			"Colosseum_082": {
+				"RewardDistributeEndDay": 20161224
+			},
+			"Colosseum_083": {
+				"RewardDistributeEndDay": 20160128
+			},
+			"Colosseum_084": {
+				"RewardDistributeEndDay": 20160303
+			},
+			"Colosseum_085": {
+				"RewardDistributeEndDay": 20160414
+			},
+			"Colosseum_086": {
+				"RewardDistributeEndDay": 20160602
+			},
+			"Colosseum_087": {
+				"RewardDistributeEndDay": 20160707
+			},
+			"Colosseum_088": {
+				"RewardDistributeEndDay": 20160811
+			},
+			"Colosseum_089": {
+				"RewardDistributeEndDay": 20161006
+			},
+			"Colosseum_090": {
+				"RewardDistributeEndDay": 20161110
+			},
+			"Colosseum_091": {
+				"RewardDistributeEndDay": 20161215
+			}
+		}
+	}
+}

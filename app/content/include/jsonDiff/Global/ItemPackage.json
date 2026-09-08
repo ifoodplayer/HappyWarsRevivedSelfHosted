@@ -1,0 +1,13 @@
+{
+	"JsonItemPackage": {
+		"rewardSet_": {
+			"Rmis1_TU001": {
+				"HappyCardTicket": 25
+			},
+			"Treasure_freetickets": {
+				"HappyTicket": 450,
+				"SentientID": 491571
+			}
+        }
+    }
+}

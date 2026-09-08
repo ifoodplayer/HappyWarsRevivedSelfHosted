@@ -1,0 +1,164 @@
+{
+    "Common": {
+      "Store": ["DLCPermissionUnlocked.json"],
+      "jsonDiffStage": {
+        "jsonDiffStage.pak": ["2321", "2322"],
+        "Falcon_CU15_limited1002_00_jsonDiffStage.pak": ["2310", "2311", "2312", "2313", "2314", "2315", "2316", "2317", "2318", "2319", "2320", "2322"]
+      },
+      "Presentation": {
+          "Falcon_1004_Presentation.zson": ["2310"],
+          "Falcon_1220_Presentation.zson": ["2311", "2312", "2313", "2314", "2315"],
+          "Falcon_0712_Presentation.zson": ["2316", "2317", "2318", "2319", "2320", "2321", "2322"],
+          "Falcon_1011_Presentation.zson": ["2322"]
+      },
+      "cooperative": {
+          "BE": ["cooperative", ""],
+          "LE": ["cooperative", "Falcon_0524_1.27.1_Cooperative_Correction.pak"]
+        }
+    },
+    "Events": {
+        "2310": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_SC_Odin_SRare.jpg"],
+          ["signboard2", "GameHome_SC_Odin.jpg"],
+          ["signboardAD02", "GameHome_MonsterSlayer_Odin.jpg"],
+          ["signboardAD03", "20160526_LimitedEdition_GameHome.jpg"],
+          ["signboardAD04", "20160609_LevelUpCampaign_GameHome.jpg"],
+          ["signboardAD10", "GameHome_SC_Odin.jpg"],
+          ["specialCoop", "Falcon_Test_Code_Special.pak"]
+        ],
+        "2311": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "【GameTop】SaveThePirateKING&バフジェム掴みどり祭り.jpg"],
+          ["signboard2", "20160609_SavethePIRATEKING_GameHome.jpg"],
+          ["signboardAD02", "20160707_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20160331_ScoreGaloreCampaign_GameHome.jpg"],
+          ["signboardAD10", "20160609_SavethePIRATEKING_GameHome.jpg"],
+          ["specialCoop", "Falcon_Test_Code_KING.pak"]
+        ],
+        "2312": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "20160721_BountyHunter&LimitedEdition_GameTop.jpg"],
+          ["signboard2", "20160721_BountyHunter_GameHome.jpg"],
+          ["signboardAD02", "20160519_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "GameHome_アイテムボックスグレードアップ.jpg"],
+          ["signboardAD10", "20160721_BountyHunter_GameHome.jpg"],
+          ["specialCoop", "Falcon_Test_Code_Bounty.pak"]
+        ],
+        "2313": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "ドミネーション＆Lv8スタート.jpg"],
+          ["signboard2", "20160310_Domination_GameHome.jpg"],
+          ["signboardAD02", "20160609_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20160721_ItemShopSale_GameHome.jpg"],
+          ["signboardAD10", "20160310_Domination_GameHome.jpg"],
+          ["specialCoop", "Falcon_0110_Domination.pak"]
+        ],
+        "2314": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "【GameTop】コロシアム_グラディエーターバフキャンペーン_吉村調整 (1).jpg"],
+          ["signboard2", "【GameHome】コロシアム.jpg"],
+          ["signboardAD02", "GameHome_Gladiator buff campaign.jpg"],
+          ["signboardAD03", "20161117_HappyStarGaloreCampaign_GameHpme.jpg"],
+          ["signboardAD10", "【GameHome】コロシアム.jpg"],
+          ["specialCoop", "Test_Colosseum_3on3_0401end.pak"]
+        ],
+        "2315": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_SoldierRevival_SC_Goblin.jpg"],
+          ["signboard2", "GameHome_SC_Goblin.jpg"],
+          ["signboardAD02", "GameHome_SoldierRevival.jpg"],
+          ["signboardAD03", "GameHome_MonsterSlayer_Goblin.jpg"],
+          ["signboardAD04", "20160714_RankUp_GameHome.jpg"],
+          ["signboardAD10", "GameHome_SC_Goblin.jpg"],
+          ["specialCoop", "Falcon_Test_Code_Special_200528_kaneko.pak"]
+        ],
+        "2316": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "20170105_Domination_LimitedEdition_GameTop.jpg"],
+          ["signboard2", "20160310_Domination_GameHome.jpg"],
+          ["signboardAD02", "20160707_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20160609_LevelUpCampaign_GameHome.jpg"],
+          ["signboardAD10", "20160310_Domination_GameHome.jpg"],
+          ["specialCoop", "Falcon_0809_Domination.pak"]
+        ],
+        "2317": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_SaveTheKing_Sレア出現率超絶アップ.jpg"],
+          ["signboard2", "20151001_SaveTheKing_GameHome.jpg"],
+          ["signboardAD02", "20160526_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20160721_ItemShopSale_GameHome.jpg"],
+          ["signboardAD10", "20151001_SaveTheKing_GameHome.jpg"],
+          ["specialCoop", "Falcon_Test_Code_KING.pak"]
+        ],
+        "2318": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_CD_GensenBuff.jpg"],
+          ["signboard2", "【GameHome】キャッスルディフェンス(クトゥルフBOSS).jpg"],
+          ["signboardAD02", "【GameHome】厳選バフジェム.jpg"],
+          ["signboardAD03", "20161027_HappyCardSale_GameHome.jpg"],
+          ["signboardAD10", "【GameHome】キャッスルディフェンス(クトゥルフBOSS).jpg"],
+          ["specialCoop", "Falcon_Test_Code_Defense.pak"]
+        ],
+        "2319": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "20160721_BountyHunter&LimitedEdition_GameTop.jpg"],
+          ["signboard2", "20160721_BountyHunter_GameHome.jpg"],
+          ["signboardAD02", "20160519_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20161117_HappyStarGaloreCampaign_GameHpme.jpg"],
+          ["signboardAD10", "20160721_BountyHunter_GameHome.jpg"],
+          ["specialCoop", "Falcon_Test_Code_Bounty.pak"]
+        ],
+        "2320": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "【GameTop】コロシアム_グラディエーターバフキャンペーン_吉村調整 (1).jpg"],
+          ["signboard2", "【GameHome】コロシアム.jpg"],
+          ["signboardAD02", "GameHome_Gladiator buff campaign.jpg"],
+          ["signboardAD03", "20160714_RankUp_GameHome.jpg"],
+          ["signboardAD10", "【GameHome】コロシアム.jpg"],
+          ["specialCoop", "Test_Colosseum_2on2_0401end.pak"]
+        ],
+        "2321": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "SDK_Lv8.jpg"],
+          ["signboard2", "20160728_SaveTheDemonKING_GameHome.jpg"],
+          ["signboardAD02", "20160609_LimitedEdition_GameHome.jpg"],
+          ["signboardAD03", "20160609_LevelUpCampaign_GameHome.jpg"],
+          ["signboardAD10", "20160728_SaveTheDemonKING_GameHome.jpg"],
+          ["specialCoop", "Falcon_Test_Code_KING.pak"]
+        ],
+        "2322": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_SpecialChallenge_E-3_Statue.jpg"],
+          ["signboard2", "GameHome_スペシャルチャレンジ_E-3.jpg"],
+          ["signboardAD02", "GameHome_モンスタースレイヤー_E-3.jpg"],
+          ["signboardAD03", "20160519_LimitedEdition_GameHome.jpg"],
+          ["signboardAD04", "GameHome_アイテムボックスグレードアップ.jpg"],
+          ["signboardAD10", "GameHome_スペシャルチャレンジ_E-3.jpg"],
+          ["specialCoop", "Falcon_Test_Code_Special.pak"]
+        ],
+        "2323": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "TOP_ClericRevival_Domination.jpg"],
+          ["signboard2", "20160310_Domination_GameHome.jpg"],
+          ["signboardAD02", "GameHome_ClericRevival.jpg"],
+          ["signboardAD03", "20160721_ItemShopSale_GameHome.jpg"],
+          ["signboardAD10", "20160310_Domination_GameHome.jpg"],
+          ["specialCoop", "Domination.pak"]
+        ]
+    }
+}

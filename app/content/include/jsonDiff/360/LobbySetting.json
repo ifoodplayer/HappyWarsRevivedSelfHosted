@@ -1,0 +1,12 @@
+{
+	"JsonLobbySetting": {
+		"matchingSetting360_": {
+			"Xbox360": {
+				"QUICK_MATCH_MIN_MEMBER_NUM": 1,
+				"COOP_MATCH_MIN_MEMBER_NUM": 2,
+				"DEF_MATCHING_TEAM_MIN_MEMBER_NUM": 1,
+				"TRUE_QUICK_WAIT_RESERCH_SEC": 45
+			}
+		}
+	}
+}

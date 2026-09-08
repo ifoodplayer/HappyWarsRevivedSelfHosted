@@ -1,0 +1,40 @@
+[package]
+name = "HappyWarsRevived"
+version = "1.0.0"
+edition = "2021"
+build = "build.rs"
+
+[[bin]]
+name = "HappyWarsRevived"
+path = "src/main.rs"
+
+[dependencies]
+axum = "0.7"
+tokio = { version = "1", features = ["full"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = { version = "1", features = ["preserve_order"] }
+indexmap = { version = "2", features = ["serde"] }
+sha2 = "0.10"
+md-5 = "0.10"
+hex = "0.4"
+flate2 = "1"
+walkdir = "2"
+tracing = "0.1"
+tracing-subscriber = { version = "0.3", features = ["env-filter"] }
+urlencoding = "2"
+parking_lot = "0.12"
+chrono = "0.4"
+adler32 = "1"
+form_urlencoded = "1"
+configparser = "3"
+
+[target.'cfg(target_os = "windows")'.dependencies]
+windows-sys = { version = "0.59", features = ["Win32_System_Console"] }
+
+[build-dependencies]
+embed-resource = { version = "2", optional = true }
+winres = "0.1"
+
+[features]
+default = []
+windows-icon = ["embed-resource"]
