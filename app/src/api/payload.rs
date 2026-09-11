@@ -38,7 +38,7 @@ pub fn zres_compress_le(raw: &[u8]) -> Vec<u8> {
 /// Layout: "ZRES" | decomp_size (LE u32) | 0x78 0x9C | deflate body | adler32 (BE u32)
 pub fn zres_compress_be(raw: &[u8]) -> Vec<u8> {
     // Standard zlib produces: 0x78 0x9C | deflate body | adler32 (LE) — strip header and LE checksum
-    let mut enc = ZlibEncoder::new(Vec::new(), Compression::new(9));
+    let mut enc = ZlibEncoder::new(Vec::new(), Compression::new(6));
     enc.write_all(raw).unwrap();
     let zlib_data = enc.finish().unwrap();
 
@@ -389,6 +389,12 @@ pub fn pak_convert_to_360(raw: &[u8]) -> Result<Vec<u8>, String> {
             // ZRES wrapping BRES LE → ZRES(SERB BE)
             let be_data = bres_le_to_be(&e.data);
             converted.push(PakEntry { name: e.name, kind: EntryKind::Zres, data: be_data });
+        } else if e.kind == EntryKind::Bres {
+            // Try converting as .lng; keep as-is if it isn't one
+            match convert_lng_le_to_be(raw_block) {
+                Ok(be_data) => converted.push(PakEntry { name: e.name, kind: EntryKind::Bres, data: be_data }),
+                Err(_) => converted.push(e),
+            }
         } else {
             converted.push(e);
         }

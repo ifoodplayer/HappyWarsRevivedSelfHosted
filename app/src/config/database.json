@@ -7,7 +7,7 @@
       },
       "Presentation": {
           "Falcon_1004_Presentation.zson": ["2310"],
-          "Falcon_1220_Presentation.zson": ["2311", "2312", "2313", "2314", "2315"],
+          "Falcon_1220_Presentation.zson": ["2311", "2312", "2313", "2314", "2315", "2324"],
           "Falcon_0712_Presentation.zson": ["2316", "2317", "2318", "2319", "2320", "2321", "2322"],
           "Falcon_1011_Presentation.zson": ["2322"]
       },
@@ -159,6 +159,16 @@
           ["signboardAD03", "20160721_ItemShopSale_GameHome.jpg"],
           ["signboardAD10", "20160310_Domination_GameHome.jpg"],
           ["specialCoop", "Domination.pak"]
+        ],
+        "2324": [
+          ["dictionary", "dictionary.pak"],
+          ["jsonDiff", "Falcon_jsonDiff.pak"],
+          ["signboard", "【GameTop】コロシアム_グラディエーターバフキャンペーン_吉村調整 (1).jpg"],
+          ["signboard2", "【GameHome】コロシアム.jpg"],
+          ["signboardAD02", "GameHome_Gladiator buff campaign.jpg"],
+          ["signboardAD03", "20161027_HappyCardSale_GameHome.jpg"],
+          ["signboardAD10", "【GameHome】コロシアム.jpg"],
+          ["specialCoop", "Test_Colosseum_4on4_0401end.pak"]
         ]
     }
 }

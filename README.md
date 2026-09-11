@@ -6,7 +6,7 @@ Download Self-Hosted from [Releases](https://github.com/ifoodplayer/HappyWarsRev
 
 ### Limitations
 
-- Coop mode on Xbox 360 
+- Coop mode on Xbox 360?
 - Cross-play between Xbox One & Windows 10
 
 ### Installation Guide
@@ -27,7 +27,7 @@ Download Self-Hosted from [Releases](https://github.com/ifoodplayer/HappyWarsRev
   <br>
 
   1. Open `HappyWarsRevived.exe`, copy `Sunrise2.xex` and `Sunrise2.ini` to your USB/HDD and add the `.xex` to DashLaunch
-  2. Find any Title Update (other than the shutdown one)
+  2. Find any playable Title Update (other than the shutdown update)
   3. Spoof your Title Update to join Xbox Live without a forced update — follow the [Byrom guide](https://byrom.uk/tuts/xexspoofing/)
   4. Open `HappyWarsRevived.exe` and launch the spoofed Happy Wars version from the XEX
 

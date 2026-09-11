@@ -23,7 +23,7 @@ const RVA_FLAG_TICKET_SLOT: usize = 0x0162_4D8D;
 const RVA_FLAG_LICENSE_OK:  usize = 0x038F_66BB;
 
 const HWAPI_URL:     &[u8] = b"http://127.0.0.1:8354/v12/api\0";
-const TELEMETRY_URL: &[u8] = b"http://127.0.0.1:8354\0";
+const TELEMETRY_URL: &[u8] = b"http://127.0.0.1:8354/\0";
 
 /// Writes `bytes` to `addr`, temporarily lifting memory protection.
 fn patch_bytes(addr: *mut u8, bytes: &[u8]) -> bool {

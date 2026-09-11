@@ -520,7 +520,7 @@ pub struct CacheEntry {
 
 // ─── LE→BE for gemini ─────────────────────────────────────────────────────────
 
-static SKIP_EXTS: &[&str] = &["jpg", "json", "zson"];
+static SKIP_EXTS: &[&str] = &["jpg", "json"];
 
 fn convert_to_be(data: Vec<u8>, filename: &str) -> Result<Vec<u8>, String> {
     let ext = Path::new(filename).extension().and_then(|e| e.to_str()).unwrap_or("").to_lowercase();
